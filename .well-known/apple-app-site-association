@@ -1,0 +1,27 @@
+{
+	"applinks": {
+		"details": [
+			{
+				"appIDs": [
+					"S9R58L94VQ.biz.enon.uaetra",
+					"S9R58L94VQ.biz.enon.uaetra.stg",
+					"S9R58L94VQ.biz.enon.uaetra.dev"
+				],
+				"components": [
+					{
+						"/": "/en/*/My-Payments/EDirham-Checkout"
+					},
+					{
+						"/": "/en/My-Payments/EDirham-Checkout"
+					},
+					{
+						"/": "/ar/*/My-Payments/EDirham-Checkout"
+					},
+					{
+						"/": "/ar/My-Payments/EDirham-Checkout"
+					}
+				]
+			}
+		]
+	}
+}
