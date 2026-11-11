@@ -19,6 +19,18 @@
 					},
 					{
 						"/": "/ar/My-Payments/EDirham-Checkout"
+					},
+					{
+						"/": "/en/*/Services/?*"
+					},
+					{
+						"/": "/en/Services/?*"
+					},
+					{
+						"/": "/ar/*/Services/?*"
+					},
+					{
+						"/": "/ar/Services/?*"
 					}
 				]
 			}
